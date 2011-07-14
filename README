@@ -8,3 +8,5 @@ Left/Right: rotate about X axis
 For the demo, please check http://www.youtube.com/watch?v=FooX7-aRrMg. 
 
 
+Note: 
+glmatrix.js and webgl-utils.js are GL utility files copied from other sites.
